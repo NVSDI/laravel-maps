@@ -25,7 +25,7 @@ Currently only Laravel 5.* is supported.
 ## Installation
 Add the repo to composer.json under this new namespace:
 ```sh
-composer require genealabs/laravel-maps
+composer require NVSDI/laravel-maps
 ```
 
 Add an environment variable with your Google Maps API Key in your `.env` file:
